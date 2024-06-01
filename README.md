@@ -1,2 +1,2 @@
-# Travel-Website
+# Travel
 HTML, CSS, BOOTSTRAP
